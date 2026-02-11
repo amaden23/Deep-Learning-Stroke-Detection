@@ -1,0 +1,13 @@
+
+pydicom
+python-gdcm
+pylibjpeg
+pylibjpeg-libjpeg
+tensorflow
+numpy
+pandas
+matplotlib
+opencv-python
+scikit-learn
+seaborn
+tqdm
