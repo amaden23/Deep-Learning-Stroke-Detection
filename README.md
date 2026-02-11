@@ -75,4 +75,4 @@ This project utilizes a Transfer Learning approach:
 
 ## Contact
 
-Developed by **[Ahmet Enes Maden]**.
+Developed by **Ahmet Enes Maden**.
